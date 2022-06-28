@@ -1,5 +1,5 @@
 # Description
-This is a demo Python based automation testing for Crypto NFT using Cucumber and Selenium
+This is a demo Python based automation framework using Cucumber and Selenium
 
 # Installing
 1. Python: https://www.python.org/downloads/
