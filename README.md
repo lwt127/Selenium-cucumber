@@ -13,7 +13,7 @@ pip install allure-behave
 ```
 
 # Execution
-1. Clone crypto-nft to local
+1. Clone Selenium-cucumber to local
 2. To run the tests
 
 
